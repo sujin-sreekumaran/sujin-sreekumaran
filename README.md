@@ -14,6 +14,6 @@ Hi I am Sujin S R, an aspiring in Web Technologies and AGI<br>🌱 I’m current
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=sujin-lifology&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sujin-lifology&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
