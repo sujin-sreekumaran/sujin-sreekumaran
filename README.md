@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi I am Sujin S R, an aspiring in Web Technologies and AGI<br>🌱 I’m currently learning Machine-learning concepts<br>💬
+Hi I am Sujin S R, an aspiring in Web Technologies and AGI 💬
 
 ## 🌐 Socials:
 
