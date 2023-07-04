@@ -10,6 +10,9 @@ Hi I am Sujin S R, an aspiring in Web Technologies and AGI 💬
 <a href="https://github.com/sujin-lifology">
     <img src="https://github-stats-alpha.vercel.app/api?username=sujin-lifology&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
+
+---
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sujin-lifology&theme=dark&hide_border=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujin-lifology&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
