@@ -1,12 +1,12 @@
-# 💫 About Me:
+## 💫 About Me:
 
-Hi I am Sujin S R, an aspiring in Web Technologies and AGI 💬
+#Machine Learning and Deep Learning Engineer 🤖 
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujin-s-r-582412174/) [![Discord](https://img.shields.io/badge/Discord-%230077B5.svg?logo=Discord&logoColor=white)](https://discord.com/channels/@me) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dash_monn) [![Stack-Overflow](https://img.shields.io/badge/stack-overflow-%230077B5.svg?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16590361/sujin-s-r)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujin-s-r-582412174/) [![Discord](https://img.shields.io/badge/Discord-%230077B5.svg?logo=Discord&logoColor=white)](https://discord.com/channels/@me)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <a href="https://github.com/sujin-lifology">
     <img src="https://github-stats-alpha.vercel.app/api?username=sujin-lifology&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
