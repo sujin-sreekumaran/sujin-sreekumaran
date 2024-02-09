@@ -1,8 +1,8 @@
 [![Api giphy vacaramin](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://vacaramin.me)
 
-# Machine Learning and Deep Learning Engineer 🤖 
+# Deep Learning Engineer 🤖 
 
-## 🌐 Socials:
+## 🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujin-s-r-582412174/) [![Discord](https://img.shields.io/badge/Discord-%230077B5.svg?logo=Discord&logoColor=white)](https://discord.com/channels/@me)
 
