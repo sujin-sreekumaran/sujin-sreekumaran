@@ -4,7 +4,7 @@
 
 ## 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujin-s-r-582412174/) [![Discord](https://img.shields.io/badge/Discord-%230077B5.svg?logo=Discord&logoColor=white)](https://discord.com/channels/@me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sujin-s-r-582412174/](https://www.linkedin.com/in/sujin-sreekumaran-582412174/)) 
 
 
 
