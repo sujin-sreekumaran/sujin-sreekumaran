@@ -2,11 +2,6 @@
 
 # Deep Learning Engineer 🤖 
 
-## 🌐
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sujin-s-r-582412174/])] 
-
-
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sujin-lifology&theme=dark&hide_border=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujin-lifology&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
