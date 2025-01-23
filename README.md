@@ -1,6 +1,6 @@
 [![Api giphy vacaramin](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://sujin.in)
 
-# Full Stack and Machine Learning Engineer 🤖 
+# Software Engineer 🤖 
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sujin-sreekumaran&theme=dark&hide_border=false&count_private=true)<br/>
